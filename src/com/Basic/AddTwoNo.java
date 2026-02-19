@@ -1,6 +1,6 @@
 package com.Basic;
 
-public class SumOfNo {
+public class AddTwoNo {
 
 	public static void main(String[] args) {
 		//Initializing two value
